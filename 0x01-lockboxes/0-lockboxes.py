@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """BOXES"""
 
+
 def canUnlockAll(boxes):
     total_boxes = len(boxes)
     setofkeys = [0]
